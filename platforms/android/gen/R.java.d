@@ -1,0 +1,23 @@
+/home/tinker/martbell/platforms/android/gen/com/tinker/martbell/R.java \
+ : /home/tinker/martbell/platforms/android/res/drawable/icon.png \
+/home/tinker/martbell/platforms/android/res/drawable-mdpi/icon.png \
+/home/tinker/martbell/platforms/android/res/drawable-mdpi/ic_launcher.png \
+/home/tinker/martbell/platforms/android/res/values/strings.xml \
+/home/tinker/martbell/platforms/android/res/drawable-xhdpi/icon.png \
+/home/tinker/martbell/platforms/android/res/drawable-xhdpi/ic_launcher.png \
+/home/tinker/martbell/platforms/android/res/drawable-ldpi/icon.png \
+/home/tinker/martbell/platforms/android/res/drawable-ldpi/ic_launcher.png \
+/home/tinker/martbell/platforms/android/res/layout/main.xml \
+/home/tinker/martbell/platforms/android/res/xml/config.xml \
+/home/tinker/martbell/platforms/android/res/drawable-hdpi/icon.png \
+/home/tinker/martbell/platforms/android/res/drawable-hdpi/ic_launcher.png \
+/home/tinker/martbell/platforms/android/bin/res/drawable/icon.png \
+/home/tinker/martbell/platforms/android/bin/res/drawable-mdpi/icon.png \
+/home/tinker/martbell/platforms/android/bin/res/drawable-mdpi/ic_launcher.png \
+/home/tinker/martbell/platforms/android/bin/res/drawable-xhdpi/icon.png \
+/home/tinker/martbell/platforms/android/bin/res/drawable-xhdpi/ic_launcher.png \
+/home/tinker/martbell/platforms/android/bin/res/drawable-ldpi/icon.png \
+/home/tinker/martbell/platforms/android/bin/res/drawable-ldpi/ic_launcher.png \
+/home/tinker/martbell/platforms/android/bin/res/drawable-hdpi/icon.png \
+/home/tinker/martbell/platforms/android/bin/res/drawable-hdpi/ic_launcher.png \
+/home/tinker/martbell/platforms/android/bin/AndroidManifest.xml \
